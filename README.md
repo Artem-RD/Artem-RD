@@ -1,16 +1,21 @@
-## Hi there 👋
+# Привет! 👋 Я Артём, начинающий Unity-разработчик
 
-<!--
-**Artem-RD/Artem-RD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Ищу позицию Junior Unity Developer или стажировку в геймдеве.
 
-Here are some ideas to get you started:
+## 🛠 Технологии и инструменты
+- **Языки:** C# (ООП, корутины)
+- **Движок:** Unity (UI, анимации, 2D-физика, таймеры, Tilemap, Cinemachine)
+- **Другое:** Git, Blender (базовое моделирование)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Мои проекты
+- **[Save the Village](https://github.com/Artem-RD/Save_the_village)** — стратегия с системой ресурсов и волн.
+- **[Wild Ball](https://github.com/Artem-RD/Wild_Ball)** — аркада с физикой и ручным управлением камерой.
+- **[Nin-form](https://github.com/Artem-RD/Nin_form)** — платформер с процедурной генерацией уровней.
+- **[Very-Long-Way](https://github.com/Artem-RD/Very-Long-Way)** — платформер с логикой врагов и сохранениями.
+
+## Мое Резюме 
+- ** [Резюме](https://github.com/Artem-RD/resume)** 
+
+## 📫 Контакты
+- Telegram: [@list1_1artem](https://t.me/list1_1artem)
+- Email: artem.rodovshenko20@mail.ru
