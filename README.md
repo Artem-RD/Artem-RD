@@ -27,10 +27,6 @@
 ### ⚽ [Wild Ball](https://github.com/Artem-RD/Wild_Ball)
 3D аркада-платформер с физическим управлением шаром и собственной системой камеры.
 
-## 📄 Резюме
-
-- [Резюме](https://github.com/Artem-RD/resume)
-
 ## 📫 Контакты
 
 - **Telegram:** [@list1_1artem](https://t.me/list1_1artem)
